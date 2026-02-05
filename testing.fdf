@@ -1,4 +1,4 @@
-PUT a.conf IN /opt/
+PUT /dotfiles/a.conf IN /opt/
 EXECUTE "echo('Done')"
 
 END FETCH
