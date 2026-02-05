@@ -1,4 +1,6 @@
-PUT dotfiles/a.conf IN /opt/
+CONFIG default_dir = dotfiles
+
+PUT a.conf IN /opt/
 ECHO "Completed Transfer" 
 
 END FETCH
