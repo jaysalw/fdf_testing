@@ -1,4 +1,4 @@
 PUT /dotfiles/a.conf IN /opt/
-EXECUTE "echo('Done')"
+ECHO "Completed Transfer" 
 
 END FETCH
